@@ -48,6 +48,7 @@ Based on the analysis, the top 5 global leaders are:
 
 ├── analysis.ipynb      # The main 10-cell Python Notebook
 ├── README.md           # Project documentation
+
 ------------------------------
 Developed as a showcase of efficient ML and Data Visualization workflow.
 ------------------------------
